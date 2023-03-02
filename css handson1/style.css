@@ -1,0 +1,20 @@
+h2{
+    color: rgb(171, 18, 18);
+}
+.ordered{
+    color: rgb(113, 13, 13);
+}
+.heading{
+    color: rgb(172, 31, 31);
+}
+.unordered{
+    color:rgb(150, 22, 22);
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+div{
+    color: rgb(117, 59, 17);
+}
+a{
+    color: rgb(93, 20, 20);
+}
